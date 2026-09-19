@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.gba
+*.gb
+*.gbc
+*.zip
+*.apk
+*.so
+build/
+.gradle/
+
